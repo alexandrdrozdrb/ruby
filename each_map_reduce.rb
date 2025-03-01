@@ -102,6 +102,7 @@ puts hundreds["first"]
 
 =end
 
+=begin
 arr = ["first", "second", "third", "fourth"]
 
 
@@ -117,5 +118,9 @@ def find_word_lengths(word_list)
 end
 
 puts find_word_lengths(arr)
+=end
 
+str = ["string "]
+
+puts str
 
