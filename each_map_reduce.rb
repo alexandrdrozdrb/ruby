@@ -120,7 +120,5 @@ end
 puts find_word_lengths(arr)
 =end
 
-str = ["string "]
 
-puts str
 
